@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Aplicativo para busca de causas que necessitam de ajuda.",
+    "githubUrl": "https://github.com/GuilhermeSilvaCosta/be-the-hero-mobile"
   }
 }
